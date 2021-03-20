@@ -1,5 +1,5 @@
 import React,{Component} from 'react';
-import { Card, Avatar ,Carousel } from 'antd';
+import { Card, Avatar ,Carousel} from 'antd';
 
 const { Meta } = Card;
 const contentStyle = {
