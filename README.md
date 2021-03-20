@@ -1,3 +1,5 @@
+# 注意
+每次提交前都要 npm run deploy
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

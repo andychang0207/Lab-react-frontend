@@ -21,12 +21,12 @@ export default class Home extends Component{
                 cover={
                     <img
                         alt="example"
-                        src="/e08.jpg"
+                        src="./e08.jpg"
                     />
                 }
                 >
                     <Meta
-                    avatar={<Avatar size={84} src="/tray_large.png" />}
+                    avatar={<Avatar size={84} src="./tray_large.png" />}
                     title="張煒晟"
                     description={[<div>
                         <p>我是台灣大學資工所的學生</p>
@@ -38,13 +38,13 @@ export default class Home extends Component{
                 <div style={{width:600,marginTop:100,float:'left'}}>
                 <Carousel autoplay>
                     <div style={{width:'600px',height:'336px',background:'#364d79'}}>
-                    <img style={{width:'600px', height:'336px'}} src="/ah.jpeg"/>
+                    <img style={{width:'600px', height:'336px'}} src="./ah.jpeg"/>
                     </div>
                     <div style={{width:'600px',height:'336px',background:'#364d79'}}>
-                    <img style={{width:'600px', height:'336px'}} src="/cat2.jpg" />
+                    <img style={{width:'600px', height:'336px'}} src="./cat2.jpg" />
                     </div>
                     <div style={{width:'600px',height:'336px',background:'#364d79'}}>
-                    <img style={{width:'600px', height:'336px'}} src="/css-sucks.png" />
+                    <img style={{width:'600px', height:'336px'}} src="./css-sucks.png" />
                     </div>
                 </Carousel>
                 </div>
