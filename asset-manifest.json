@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Lab-react-frontend/static/css/main.53cb1f6d.chunk.css",
+    "main.js": "/Lab-react-frontend/static/js/main.bc60734c.chunk.js",
+    "main.js.map": "/Lab-react-frontend/static/js/main.bc60734c.chunk.js.map",
+    "runtime-main.js": "/Lab-react-frontend/static/js/runtime-main.eb069ec2.js",
+    "runtime-main.js.map": "/Lab-react-frontend/static/js/runtime-main.eb069ec2.js.map",
+    "static/css/2.98e7ac70.chunk.css": "/Lab-react-frontend/static/css/2.98e7ac70.chunk.css",
+    "static/js/2.532aa81d.chunk.js": "/Lab-react-frontend/static/js/2.532aa81d.chunk.js",
+    "static/js/2.532aa81d.chunk.js.map": "/Lab-react-frontend/static/js/2.532aa81d.chunk.js.map",
+    "static/js/3.17512137.chunk.js": "/Lab-react-frontend/static/js/3.17512137.chunk.js",
+    "static/js/3.17512137.chunk.js.map": "/Lab-react-frontend/static/js/3.17512137.chunk.js.map",
+    "index.html": "/Lab-react-frontend/index.html",
+    "static/css/2.98e7ac70.chunk.css.map": "/Lab-react-frontend/static/css/2.98e7ac70.chunk.css.map",
+    "static/css/main.53cb1f6d.chunk.css.map": "/Lab-react-frontend/static/css/main.53cb1f6d.chunk.css.map",
+    "static/js/2.532aa81d.chunk.js.LICENSE.txt": "/Lab-react-frontend/static/js/2.532aa81d.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/Lab-react-frontend/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.eb069ec2.js",
+    "static/css/2.98e7ac70.chunk.css",
+    "static/js/2.532aa81d.chunk.js",
+    "static/css/main.53cb1f6d.chunk.css",
+    "static/js/main.bc60734c.chunk.js"
+  ]
+}
