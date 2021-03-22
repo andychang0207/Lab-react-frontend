@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Lab-react-frontend/static/css/main.53cb1f6d.chunk.css",
-    "main.js": "/Lab-react-frontend/static/js/main.4c461780.chunk.js",
-    "main.js.map": "/Lab-react-frontend/static/js/main.4c461780.chunk.js.map",
+    "main.js": "/Lab-react-frontend/static/js/main.2e913fb1.chunk.js",
+    "main.js.map": "/Lab-react-frontend/static/js/main.2e913fb1.chunk.js.map",
     "runtime-main.js": "/Lab-react-frontend/static/js/runtime-main.762019c0.js",
     "runtime-main.js.map": "/Lab-react-frontend/static/js/runtime-main.762019c0.js.map",
     "static/css/2.98e7ac70.chunk.css": "/Lab-react-frontend/static/css/2.98e7ac70.chunk.css",
@@ -21,6 +21,6 @@
     "static/css/2.98e7ac70.chunk.css",
     "static/js/2.d2c3f61c.chunk.js",
     "static/css/main.53cb1f6d.chunk.css",
-    "static/js/main.4c461780.chunk.js"
+    "static/js/main.2e913fb1.chunk.js"
   ]
 }
