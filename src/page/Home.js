@@ -41,10 +41,10 @@ export default class Home extends Component{
                     <img style={{width:'600px', height:'336px'}} src="./ah.jpeg"/>
                     </div>
                     <div style={{width:'600px',height:'336px',background:'#364d79'}}>
-                    <img style={{width:'600px', height:'336px'}} src="./cat2.jpg" />
+                    <img style={{width:'600px', height:'336px'}} src="./cssmeme.jpg" />
                     </div>
                     <div style={{width:'600px',height:'336px',background:'#364d79'}}>
-                    <img style={{width:'600px', height:'336px'}} src="./css-sucks.png" />
+                    <img style={{width:'600px', height:'336px'}} src="./ntu.jpeg" />
                     </div>
                 </Carousel>
                 </div>

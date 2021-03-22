@@ -3,12 +3,13 @@ import { combineReducers } from 'redux';
 import {FETCH_DATA,ADD_MESSAGE} from '../action/messsageaction';
 
 // message default 格式
+// {
+//     name: 'andy',
+//     text: '測試一號',
+//     time: '1990-07-8 12:00:00'
+// }
 const defaultMessage = {
-    messagebox:[{
-        name: 'andy',
-        text: '測試一號',
-        time: '1990-07-8 12:00:00'
-    }]
+    messagebox:[]
 }
 
 
